@@ -5,4 +5,5 @@ Current members are:
 - AVidhanR
 - Meenesh
 - John Mark
-Currently working on building the `inventory management system`
+
+Currently, building the `inventory management system`
