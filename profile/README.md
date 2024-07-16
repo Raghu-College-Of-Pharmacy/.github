@@ -1,7 +1,7 @@
 Welcome to the `Raghu College Of Pharmacy` Organization.\
 Current members are:
 - CharanMN7
-- Pavan Kumar
+- Pavan Manikanta
 - AVidhanR
 - Meenesh
 - John Mark
